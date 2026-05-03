@@ -115,6 +115,8 @@ Since a `Dockerfile` is provided, deployment is seamless:
 gcloud config set project <your-project-id>
 gcloud run deploy election-agent --source . --region us-central1 --allow-unauthenticated
 ```
+*Live running link*: `https://votesaathi-app-812424538284.asia-south1.run.app/`
+
 
 ---
 *Built with ❤️ to strengthen democratic participation in India 🇮🇳*
