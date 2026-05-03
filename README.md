@@ -103,8 +103,7 @@ To ensure the app is fast, educational, and secure, the following assumptions an
 
 ### Run Locally
 ```bash
-git clone <repo-url>
-cd "Election Agent"
+git clone https://github.com/tunirwabhitkar/VoteSaathi.git
 npm install
 npm run dev
 ```
